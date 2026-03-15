@@ -226,7 +226,8 @@ However, to perform **dynamic behavioral analysis** (Sandbox method), Vortex mus
 
 ```yaml
 Environment : Virtual Machine (VMware/VirtualBox)
-Discord App : MSI App Player with FAKE account
+Discord App : Discord with FAKE account both separate
+Msi App Player: Mandatory 
 Token      : Use throwaway/burner Discord account
 Network    : Isolated or monitored VM network
 Snapshot   : Create VM snapshot before scanning

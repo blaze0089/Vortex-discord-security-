@@ -1,5 +1,6 @@
 # Vortex-discord-security-threat detector
-Detect discord token grabber with 98% accuracy and detect almost every single of them even if encrypted with thousands of methods
+
+# Detect discord token grabber with 98% accuracy and detect almost every single of them even if encrypted with thousands of methods
 
 <div align="center">
 
